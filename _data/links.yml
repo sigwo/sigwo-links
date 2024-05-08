@@ -1,3 +1,10 @@
+- category: Websites
+  items:
+    - title: Sigwo Arms
+      url: https://www.sigwoarms.com
+    - title: Sigwo Industries
+      url: https://www.sigwoindustries.com
+
 - category: Flagship Products
   items:
     - title: SIC15 Operator
@@ -13,3 +20,10 @@
       url: https://www.sigwoarms.com/shop/billet-80-ar-lowers-161?search=80&order=name+asc#attr=198,196
       icon: fa6-solid:person-rifle
       tag: Sale
+
+- category: Google Reviews
+  items:
+    - title: Sigwo Arms
+      url: https://g.page/r/CXaPRMBegwViEBM/review
+    - title: Sigwo Industries
+      url: https://g.page/r/CbLWAa34GvRIEBM/review
