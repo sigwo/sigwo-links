@@ -2,25 +2,25 @@
 theme: linkhub-jekyll-theme
 
 # Site Configuration
-name: Sigwo  # Name of your website
+name: Sigwo # Name of your website
 tagline: Links  # Set your preferred page title
 description: Sigwo branded company websites and profiles.  # Also used as a meta description
 favicon: https://www.sigwoindustries.com/web/image/website/1/favicon?unique=bb0cf10 # Path / URL to the favicon of your website (e.g., 'assets/images/favicon.png')
-logo: https://picsum.photos/200 # Path / URL to the logo (e.g., 'assets/images/logo.png')
-url: https://sigwo.com # URL of your website
+logo: https://www.sigwoindustries.com/web/image/website/1/logo/Sigwo%20Industries?unique=bb0cf10 # Path / URL to the logo (e.g., 'assets/images/logo.png')
+url: https://www.sigwoindustries.com # URL of your website
 locale: en_GB # The value specifies the locale in which these tags are marked up. It follows the format `language_TERRITORY`.
 ga4: G-7VWD9Q6VJH # Google Analytics 4 measurement ID (optional). Remove it if not needed.
 twitter:
   username: sigwoarms # Used for SEO
 image:
-  path: https://picsum.photos/200 # Used for SEO
+  path: https://www.sigwoindustries.com/web/image/website/1/logo/Sigwo%20Industries?unique=bb0cf10 # Used for SEO
   type: jpeg # File format of image. Change according to your image. Supported types: https://en.wikipedia.org/wiki/Media_type#Common_examples
   height: 100 # Pixels
   width: 100
   alt: logo
 
 # Verified Badge Configuration
-badge: true  # Set to 'true' or 'false' to enable / disable the badge
+badge: false  # Set to 'true' or 'false' to enable / disable the badge
 icon: ri:verified-badge-fill  # Enter the icon name for the badge from Iconify Design (https://icon-sets.iconify.design/)
 color: '#dfb221'  # Define the color of the badge
  
