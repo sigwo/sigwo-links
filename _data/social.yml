@@ -7,21 +7,11 @@
   url: https://www.instagram.com/sigwoarms
   icon: ri:instagram-fill
   color: '#E4405F'
-
-- name: instagram
-  url: https://www.instagram.com/sigwoindustries
-  icon: ri:instagram-fill
-  color: '#E4405F'
   
 - name: x
   url: https://x.com/sigwoarms
   icon: ri:twitter-x-fill
   color: '#1D9BF0'
-
-- name: x
-  url: https://x.com/sigwo
-  icon: ri:mastodon-fill
-  color: '#6364FF'
 
 - name: youtube
   url: https://www.youtube.com/@sigwoarms
