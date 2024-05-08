@@ -1,22 +1,15 @@
-- category: Blogs
+- category: Flagship Products
   items:
-    - title: Example
-      url: https://www.example.com
-      icon: ri:film-fill # Icons are optional.
-      tag: New
+    - title: SIC15 Operator
+      url: https://www.sigwoarms.com/shop/sic15-operator-sic15-operator-906?search=operator&order=name+asc#attr=
+    - title: SIC15 Mk2
+      url: https://www.sigwoarms.com/shop/sic15-mk2-sic15-mk2-945?search=mk2&order=name+asc#attr=
+    - title: SIC15 Zero
+      url: https://www.sigwoarms.com/shop/sic15-zero-sic15-zero-mil-spec-744?category=2#attr=
 
-    - title: Example 2
-      url: https://www.example.org
-      icon: simple-icons:googlenews
-
-- category: Products
+- category: Top Pick
   items:
-    - title: Example 3
-      url: https://www.example.com
-
-- category: Works
-  items:
-    - title: Example 4
-      url: https://www.example.org
-      icon: clarity:language-solid
+    - title: 80% Lowers
+      url: https://www.sigwoarms.com/shop/billet-80-ar-lowers-161?search=80&order=name+asc#attr=198,196
+      icon: fa6-solid:person-rifle
       tag: Sale
