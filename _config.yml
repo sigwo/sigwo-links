@@ -4,7 +4,7 @@ theme: linkhub-jekyll-theme
 # Site Configuration
 name: Sigwo # Name of your website
 tagline: Links  # Set your preferred page title
-description: Sigwo branded company websites and profiles.  # Also used as a meta description
+description: Links to Sigwo branded company websites and socials.  # Also used as a meta description
 favicon: https://www.sigwoindustries.com/web/image/website/1/favicon?unique=bb0cf10 # Path / URL to the favicon of your website (e.g., 'assets/images/favicon.png')
 logo: https://www.sigwoarms.com/web/image/5369-6015a3f6/IMG_0134.PNG # Path / URL to the logo (e.g., 'assets/images/logo.png')
 url: https://www.sigwoindustries.com # URL of your website
