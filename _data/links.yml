@@ -1,23 +1,23 @@
 - category: Websites
   items:
     - title: Sigwo Arms
-      url: https://www.sigwoarms.com
+      url: https://www.sigwoarms.com/r/ToV
     - title: Sigwo Industries
-      url: https://www.sigwoindustries.com
+      url: https://www.sigwoindustries.com/r/oI6
 
 - category: Flagship Products
   items:
     - title: SIC15 Operator
-      url: https://www.sigwoarms.com/shop/sic15-operator-sic15-operator-906?search=operator&order=name+asc#attr=
+      url: https://www.sigwoarms.com/r/H42
     - title: SIC15 Mk2
-      url: https://www.sigwoarms.com/shop/sic15-mk2-sic15-mk2-945?search=mk2&order=name+asc#attr=
+      url: https://www.sigwoarms.com/r/EeT
     - title: SIC15 Zero
-      url: https://www.sigwoarms.com/shop/sic15-zero-sic15-zero-mil-spec-744?category=2#attr=
-
+      url: https://www.sigwoarms.com/r/NKw
+      
 - category: Top Pick
   items:
     - title: 80% Lowers
-      url: https://www.sigwoarms.com/shop/billet-80-ar-lowers-161?search=80&order=name+asc#attr=198,196
+      url: https://www.sigwoarms.com/r/HI0
       icon: fa6-solid:person-rifle
       tag: Sale
 
