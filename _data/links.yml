@@ -1,8 +1,3 @@
-- category: Specials
-  items:
-    - title: TimberTac Kits!
-      url: https://www.sigwoarms.com/r/DqV
-    
 - category: Websites
   items:
     - title: Sigwo Arms
@@ -12,19 +7,21 @@
 
 - category: Flagship Products
   items:
-    - title: SIC15 Operator
+    - title: TimberTac Kits!
+      url: https://www.sigwoarms.com/r/DqV
+    - title: SIC15 Operator - .300BLK Workhorse
       url: https://www.sigwoarms.com/r/H42
-    - title: SIC15 Mk2
+    - title: SIC15 Mk2 - 5.56mm Door Banger
       url: https://www.sigwoarms.com/r/EeT
-    - title: SIC15 Zero
+    - title: SIC15 Zero - 5.56mm Multi-Purpose
       url: https://www.sigwoarms.com/r/NKw
       
-- category: Top Pick
-  items:
-    - title: 80% Lowers
-      url: https://www.sigwoarms.com/r/HI0
-      icon: fa6-solid:person-rifle
-      tag: Sale
+# - category: Top Pick
+#   items:
+#     - title: 80% Lowers
+#       url: https://www.sigwoarms.com/r/HI0
+#       icon: fa6-solid:person-rifle
+#       tag: Sale
 
 - category: Google Reviews
   items:
