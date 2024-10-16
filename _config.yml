@@ -1,5 +1,5 @@
 # Jekyll
-theme: linkhub-jekyll-theme
+remote-theme: benbalter/retlab #linkhub-jekyll-theme
 
 # Site Configuration
 name: Sigwo # Name of your website
