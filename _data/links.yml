@@ -16,7 +16,7 @@
       
  - category: Gun Broker Auctions
    items:
-     - title: 80% Lowers
+     - title: Gun Broker Shop
        url: https://www.gunbroker.com/All/search?IncludeSellers=7512528
        icon: fa6-solid:person-rifle
        tag: Sale
