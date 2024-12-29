@@ -15,14 +15,14 @@
       url: https://www.sigwoarms.com/r/NKw
       
 - category: Gun Broker Auctions
-   items:
-     - title: Gun Broker Shop
-       url: https://www.gunbroker.com/All/search?IncludeSellers=7512528
+  items:
+    - title: Gun Broker Shop
+      url: https://www.gunbroker.com/All/search?IncludeSellers=7512528
        
 - category: Silencer Sales
-   items:
-     - title: Silencer Shop - Sigwo Arms
-       url: https://silencershop.com/sigwoarms
+  items:
+    - title: Silencer Shop - Sigwo Arms
+      url: https://silencershop.com/sigwoarms
 
 - category: Google Reviews
   items:
