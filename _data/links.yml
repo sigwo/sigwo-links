@@ -18,15 +18,11 @@
    items:
      - title: Gun Broker Shop
        url: https://www.gunbroker.com/All/search?IncludeSellers=7512528
-       icon: fa6-solid:person-rifle
-       tag: Sale
-
+       
  - category: Silencer Sales
    items:
      - title: Silencer Shop - Sigwo Arms
        url: https://silencershop.com/sigwoarms
-       icon: fa6-solid:face-shush
-       tag: Sale
 
 - category: Google Reviews
   items:
