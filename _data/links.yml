@@ -5,19 +5,19 @@
 
 - category: Websites
   items:
-    - title: Sigwo Arms
+    - title: Sigwo Arms - Home of the Zero, Mk2, and Avenger!
       url: https://www.sigwoarms.com/r/ToV
-    - title: Sigwo Industries
+    - title: Sigwo Industries - For your coating and machining needs!
       url: https://www.sigwoindustries.com/r/oI6
 
-- category: Flagship Products
-  items:
-    - title: SIC15 Avenger w/ TimberTac!
-      url: https://www.sigwoarms.com/r/yVy
-    - title: SIC15 Mk2 - Multi-Cal door banger
-      url: https://www.sigwoarms.com/r/iVb
-    - title: SIC15 Zero - Multi-Purpose multi-cal
-      url: https://www.sigwoarms.com/r/NKw
+#- category: Flagship Products
+#  items:
+#    - title: SIC15 Avenger w/ TimberTac!
+#      url: https://www.sigwoarms.com/r/yVy
+#    - title: SIC15 Mk2 - Multi-Cal door banger
+#      url: https://www.sigwoarms.com/r/iVb
+#    - title: SIC15 Zero - Multi-Purpose multi-cal
+#      url: https://www.sigwoarms.com/r/NKw
       
 - category: Gun Broker Auctions
   items:
