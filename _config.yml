@@ -4,7 +4,7 @@ remote-theme: benbalter/retlab #linkhub-jekyll-theme
 # Site Configuration
 name: Sigwo # Name of your website
 tagline: Links  # Set your preferred page title
-description: Thanks for clicking our ad. Neither Goog or Bookface will allow us to properly describe our products and services so we made this bougie links page. Click the links below to see our available broomsticks.  # Also used as a meta description
+description: Thanks for clicking our ad. Neither Goog or Bookface will allow us to properly describe our products and services so we made this vanilla links page. Click the links below to see our available broomsticks.  # Also used as a meta description
 favicon: https://www.sigwoindustries.com/web/image/website/1/favicon?unique=bb0cf10 # Path / URL to the favicon of your website (e.g., 'assets/images/favicon.png')
 logo: https://www.sigwoarms.com/web/image/5369-6015a3f6/IMG_0134.PNG # Path / URL to the logo (e.g., 'assets/images/logo.png')
 url: https://www.sigwoindustries.com/r/oI6 # URL of your website
