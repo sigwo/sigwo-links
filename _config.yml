@@ -3,8 +3,8 @@ remote-theme: benbalter/retlab #linkhub-jekyll-theme
 
 # Site Configuration
 name: Sigwo Group # Name of your website
-tagline: Links  # Set your preferred page title
-description:  # Also used as a meta description
+tagline: Hi  # Set your preferred page title
+description:  Welcome! # Also used as a meta description
 favicon: https://www.sigwoindustries.com/web/image/website/1/favicon?unique=bb0cf10 # Path / URL to the favicon of your website (e.g., 'assets/images/favicon.png')
 logo: https://www.sigwoarms.com/web/image/5369-6015a3f6/IMG_0134.PNG # Path / URL to the logo (e.g., 'assets/images/logo.png')
 url: https://www.sigwoindustries.com/r/oI6 # URL of your website
