@@ -1,11 +1,13 @@
-- category: Specials
+- category: Where'd you see or hear us?
   items:
     - title: Click here if you heard us on Q102.1!
       url: https://www.sigwoarms.com
+    - title: Click here if you saw one of our billboards!
+      url: https://www.sigwo.tech/r/X7d
 
 - category: Websites
   items:
-    - title: Sigwo Arms - Home of the Zero, Mk2, and Hyena!
+    - title: Sigwo - Home of the Zero, Mk2, and Hyena!
       url: https://www.sigwoarms.com/r/ToV
     - title: Sigwo Industries - For your coating and machining needs!
       url: https://www.sigwoindustries.com/r/oI6
@@ -19,19 +21,17 @@
 #    - title: SIC15 Zero - Multi-Purpose multi-cal
 #      url: https://www.sigwoarms.com/r/NKw
       
-- category: Gun Broker Auctions
-  items:
-    - title: Gun Broker Shop
-      url: https://www.gunbroker.com/All/search?IncludeSellers=369198
+#- category: Gun Broker Auctions
+#  items:
+#    - title: Gun Broker Shop
+#      url: https://www.gunbroker.com/All/search?IncludeSellers=369198
        
-- category: Silencer Sales
-  items:
-    - title: Silencer Shop - Sigwo Arms
-      url: https://silencershop.com/sigwoarms
+#- category: Silencer Sales
+#  items:
+#    - title: Silencer Shop - Sigwo Arms
+#      url: https://silencershop.com/sigwoarms
 
 - category: Google Reviews
   items:
-    - title: Sigwo Arms
+    - title: Sigwo
       url: https://g.page/r/CXaPRMBegwViEBM/review
-    - title: Sigwo Industries
-      url: https://g.page/r/CbLWAa34GvRIEBM/review
