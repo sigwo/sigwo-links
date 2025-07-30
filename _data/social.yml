@@ -1,5 +1,5 @@
 - name: facebook
-  url: https://www.facebook.com/profile.php?id=61572856779957
+  url: https://www.facebook.com/sigwoarmsllc
   icon: ri:facebook-fill
   color: '#1877F2'
 
@@ -17,3 +17,8 @@
   url: https://www.youtube.com/@sigwoindustries
   icon: ri:youtube-fill
   color: '#FF0000'
+
+- name: tiktok
+  url: https://www.tiktok.com/@sigwoindustries
+  icon: ri:tiktok-fill
+  color: '#1D9BF0'
