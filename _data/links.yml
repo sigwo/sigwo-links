@@ -1,16 +1,24 @@
+- category: MACHINE GUN SHOOT! 
+  items:
+    - title: Register Here!
+      url: https://www.sigwo.tech/r/1d5
+
 - category: Where'd you see or hear us?
   items:
     - title: Click here if you heard us on Q102.1!
-      url: https://www.sigwoarms.com
+      url: https://www.sigwoarms.com/r/ToV
     - title: Click here if you saw one of our billboards!
       url: https://www.sigwo.tech/r/X7d
 
 - category: Websites
   items:
-    - title: Sigwo Arms - Home of the Zero, Mk2, and Hyena!
+    - title: Sigwo Arms - Home of the Mk2, Pup, and Hyena!
       url: https://www.sigwoarms.com/r/ToV
-    - title: Sigwo Industries - For your coating and machining needs!
-      url: https://www.sigwoindustries.com/r/oI6
+
+- category: Google Reviews
+  items:
+    - title: Sigwo
+      url: https://g.page/r/CXaPRMBegwViEBM/review
 
 #- category: Flagship Products
 #  items:
@@ -31,7 +39,4 @@
 #    - title: Silencer Shop - Sigwo Arms
 #      url: https://silencershop.com/sigwoarms
 
-- category: Google Reviews
-  items:
-    - title: Sigwo
-      url: https://g.page/r/CXaPRMBegwViEBM/review
+
