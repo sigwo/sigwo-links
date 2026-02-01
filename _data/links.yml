@@ -1,3 +1,8 @@
+- category: Events!
+  items:
+    - title: Sigwo Events (CCW and Full Auto Shoot)
+      url: https://sigwo.com/events
+
 - category: Sigwo Shield Club! 
   items:
     - title: Sign Up Here!
@@ -7,11 +12,6 @@
   items:
     - title: Sigwo Merch
       url: https://merch.sigwo.com
-
-- category: Events!
-  items:
-    - title: Sigwo Events (CCW and Full Auto Shoot)
-      url: https://sigwo.com/events
 
 - category: Website
   items:
