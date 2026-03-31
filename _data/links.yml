@@ -1,22 +1,17 @@
 - category: Events!
   items:
-    - title: Sigwo Events (CCW and Full Auto Shoot)
+    - title: Concealed Carry Classes
       url: https://sigwo.com/events
-
-- category: Sigwo Shield Club! 
-  items:
-    - title: Sign Up Here!
-      url: https://sigwo.com/club
-
-- category: Merch!
-  items:
-    - title: Sigwo Merch
-      url: https://merch.sigwo.com
 
 - category: Website
   items:
     - title: Sigwo Arms - Home of the Mk2, Pup, and Hyena!
       url: https://www.sigwoarms.com/r/ToV
+
+- category: Merch!
+  items:
+    - title: Sigwo Merch
+      url: https://merch.sigwo.com
 
 #- category: Where'd you see or hear us?
 #  items:
