@@ -7,7 +7,12 @@
   url: https://www.instagram.com/sigwoarms
   icon: ri:instagram-fill
   color: '#E4405F'
-
+  
+- name: rumble
+  url: https://rumble.com/c/c-7776830
+  icon: ri:rumble-fill
+  color: '#0b57d0'
+  
 - name: youtube
   url: https://www.youtube.com/@sigwoarms
   icon: ri:youtube-fill
@@ -21,4 +26,4 @@
 - name: tiktok
   url: https://www.tiktok.com/@sigwoindustries
   icon: ri:tiktok-fill
-  color: '#FFFFFF'
+  color: '#0b57d0'
