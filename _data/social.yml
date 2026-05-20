@@ -10,7 +10,7 @@
   
 - name: rumble
   url: https://rumble.com/c/c-7776830
-  icon: ri:../assets/rumble.svg
+  icon: ri:play-box-multiple
   color: '#A0FF42'
   
 - name: youtube
