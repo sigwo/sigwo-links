@@ -10,8 +10,8 @@
   
 - name: rumble
   url: https://rumble.com/c/c-7776830
-  icon: ri:rumble-fill
-  color: '#0b57d0'
+  icon: ri:../assets/rumble.svg
+  color: '#A0FF42'
   
 - name: youtube
   url: https://www.youtube.com/@sigwoarms
